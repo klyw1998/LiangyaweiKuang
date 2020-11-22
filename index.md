@@ -1,3 +1,10 @@
+## Hi, this is Liangyawei Kuang
+
+Besides this one, my another personal website is at [deadsecond.com](https://www.deadsecond.com)
+While both of them are urder building.
+
+## below are the original files
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/klyw1998/LiangyaweiKuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

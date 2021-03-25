@@ -1,10 +1,17 @@
-## Hi, this is Liangyawei Kuang
+## Liangyawei Kuang at HKUST
 
 Besides this one, my another personal website is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.
 
-## below are the original files
+## Education
 
+- Hong Kong University of Science and Technology (2021 - present), Mphil
+- Northeastern University at Boston (2020 - 2021), Thesis Master (degree discontinued)
+- University of Califronia, Irvine (2019 - 2020), final year visiting student 
+- Hong Kong Polytechnic University (2018 - 2019), one-semester exchange student
+- Harbin Institute of Technology (2016 - 2020), BEng
+
+## below are the original files
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/klyw1998/LiangyaweiKuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

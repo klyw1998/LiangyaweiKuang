@@ -1,6 +1,4 @@
-Image.jepg
-
-## Liangyawei Kuang at HKUST
+## Liangyawei Kuang at HKUST [my image](https://github.com/klyw1998/LiangyaweiKuang/Image.jepg)
 
 Besides this one, my another personal website is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.

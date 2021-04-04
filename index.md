@@ -5,7 +5,7 @@ While both of them are urder building.
 
 ## Education
 
-- Hong Kong University of Science and Technology (2021 - present), Mphil
+- The Hong Kong University of Science and Technology (2021 - present), Mphil
 - Northeastern University at Boston (2020 - 2021), Thesis Master (degree discontinued)
 - University of Califronia, Irvine (2019 - 2020), final year visiting student 
 - Hong Kong Polytechnic University (2018 - 2019), one-semester exchange student

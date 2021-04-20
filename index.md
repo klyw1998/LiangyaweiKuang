@@ -11,6 +11,10 @@ While both of them are urder building.
 - Hong Kong Polytechnic University (2018 - 2019), one-semester exchange student
 - Harbin Institute of Technology (2016 - 2020), BEng
 
+## Selected Projects With Demo
+
+- UCB CS188 Pacman Projects
+
 ## below is the original files
 ## Welcome to GitHub Pages
 

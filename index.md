@@ -1,6 +1,6 @@
 ## 匡梁亚伟/Liangyawei Kuang at HKUST ([my image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Image.jpeg)/[my cv](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Liangyawei%20Kuang's%20Curriculum%20vitae.pdf))
 
-Besides this one, my another personal website is at [deadsecond.com](https://www.deadsecond.com)
+Besides this one, my another personal webpage is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.
 
 ## Education
@@ -8,7 +8,7 @@ While both of them are urder building.
 - The Hong Kong University of Science and Technology (2021 - present), Mphil
 - Northeastern University at Boston (2020 - 2021), Thesis Master (degree discontinued)
 - University of Califronia, Irvine (2019 - 2020), final year visiting student 
-- Hong Kong Polytechnic University (2018 - 2019), one-semester exchange student
+- Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student
 - Harbin Institute of Technology (2016 - 2020), BEng
 
 ## Selected Projects With Demo

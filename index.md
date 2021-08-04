@@ -1,4 +1,8 @@
-## Liangyawei Kuang/匡梁亚伟 here! ([my image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Image.jpeg)/[my cv](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Liangyawei%20Kuang's%20Curriculum%20vitae.pdf))
+title: 'Liangyawei Kuang'
+
+## Liangyawei Kuang/匡梁亚伟 here! 
+
+I am a graduate student at HKUST who focuses on the intersection among control, vision, and machine learning, with the aim of developing algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex multi-agent tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, in order to endow machines with greater autonomy and intelligence.
 
 Besides this one, my another personal webpage is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.
@@ -13,43 +17,7 @@ While both of them are urder building.
 
 ## Selected Projects With Demo
 
-- UCB CS188 Pacman Projects
+- UCB CS188 Pacman Projects (not uploaded)
 
-## below is the original files
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/klyw1998/LiangyaweiKuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klyw1998/LiangyaweiKuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links
+[my cv](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Liangyawei%20Kuang's%20Curriculum%20vitae.pdf)/[my image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Image.jpeg)

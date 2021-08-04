@@ -1,15 +1,13 @@
-title: 'Liangyawei Kuang'
-
 ## Liangyawei Kuang/匡梁亚伟 here! 
 
-I am a graduate student at HKUST who focuses on the intersection among control, vision, and machine learning, with the aim of developing algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex multi-agent tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, in order to endow machines with greater autonomy and intelligence.
+I am a graduate student at [HKUST](https://hkust.edu.hk/) who focuses on the intersection of control, vision, and machine learning to develop algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex multi-agent tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, to endow machines with greater autonomy and intelligence.
 
 Besides this one, my another personal webpage is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.
 
 ## Education
 
-- The Hong Kong University of Science and Technology (2021 - present), Mphil
+- The Hong Kong University of Science and Technology (2021 - present), Mphil, with Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest) and Prof. [Ling Shi](https://ece.hkust.edu.hk/eesling)
 - Northeastern University at Boston (2020 - 2021), Thesis Master (degree discontinued)
 - University of Califronia, Irvine (2019 - 2020), final year visiting student 
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student

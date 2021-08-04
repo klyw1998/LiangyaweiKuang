@@ -1,6 +1,5 @@
 ---
 title: 'Liangyawei Kuang'
-layout: default
 ---
 
 ## Liangyawei Kuang/匡梁亚伟 here! 

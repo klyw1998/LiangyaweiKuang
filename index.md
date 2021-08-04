@@ -11,7 +11,7 @@ While both of them are urder building.
 
 ## Education
 
-- The Hong Kong University of Science and Technology (2021 - present), Mphil, with Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest) and Prof. [Ling Shi](https://ece.hkust.edu.hk/eesling)
+- The Hong Kong University of Science and Technology (2021 - present), Mphil, with Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest) and Prof. [Ling Shi](https://facultyprofiles.ust.hk/profiles.php?profile=ling-shi-eesling)
 - Northeastern University at Boston (2020 - 2021), Thesis Master (degree discontinued)
 - University of Califronia, Irvine (2019 - 2020), final year visiting student 
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student

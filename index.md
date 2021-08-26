@@ -22,4 +22,4 @@ While both of them are urder building.
 - UCB CS188 Pacman Projects (not uploaded)
 
 ## Links
-[my cv](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Liangyawei%20Kuang's%20Curriculum%20vitae.pdf)/[my image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Image.jpeg)
+[my cv](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/Liangyawei%20Kuang's%20Curriculum%20vitae.pdf)

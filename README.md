@@ -1,2 +1,2 @@
 # LiangyaweiKuang
-This is Liaangyawei Kuang's personal webpage.
+This is Liangyawei Kuang's personal webpage.

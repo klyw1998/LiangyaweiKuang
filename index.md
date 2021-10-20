@@ -4,7 +4,7 @@ title: 'Liangyawei Kuang'
 
 ## Liangyawei Kuang/匡梁亚伟 here! 
 
-I am a graduate student at [HKUST](https://hkust.edu.hk/) who focuses on the intersection of multi-agent systems, robotics, and machine learning to develop algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, to endow machines with greater autonomy and intelligence. (hahaha, this paragraph is plagiarizing a Berkeley superstar, [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)'s intro :D)
+I am a graduate student at [HKUST](https://hkust.edu.hk/) who focuses on the intersection of multi-agent systems, robotics, vision, and machine learning to develop algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, to endow machines with greater autonomy and intelligence. (hahaha, this paragraph is plagiarizing a Berkeley superstar, [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)'s intro :D)
 
 Besides this one, my another personal webpage is at [deadsecond.com](https://www.deadsecond.com)
 While both of them are urder building.

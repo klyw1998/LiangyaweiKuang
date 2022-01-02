@@ -23,4 +23,4 @@ While both of them are urder building.
 
 ## Links
 
-- Not Yet, haha
+- Not Yet

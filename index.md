@@ -6,8 +6,7 @@ title: 'Liangyawei Kuang'
 
 I am a graduate student at [HKUST](https://hkust.edu.hk/) who focuses on the intersection of multi-agent systems, reinforcement learning, game theory, robotics, vision, and machine learning to develop algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, to endow machines with greater autonomy and intelligence. (lol, this paragraph is plagiarizing a Berkeley superstar, [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)'s intro :D)
 
-Besides this webpage, my personal website is at [deadsecond.com](https://www.deadsecond.com)
-While both of them are urder building.
+Besides this webpage, my personal website is at [deadsecond.com](https://www.deadsecond.com).
 
 ## Education
 - The Hong Kong University of Science and Technology (Guangzhou) (2022 - present), MPhil in Robotics and Autonomous Systems, co-supervised by Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest) and Prof. [Ling Shi](https://facultyprofiles.ust.hk/profiles.php?profile=ling-shi-eesling);

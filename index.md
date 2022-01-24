@@ -4,7 +4,7 @@ title: 'Liangyawei Kuang'
 
 ## Liangyawei Kuang/匡梁亚伟 here! 
 
-![image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/kris.jpg | width=100)
+![image](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/kris.jpg)
 
 I am a graduate student at [HKUST](https://hkust.edu.hk/) who focuses on the intersection of multi-agent systems, reinforcement learning, game theory, robotics, vision, and machine learning to develop algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, to endow machines with greater autonomy and intelligence. (lol, this paragraph is plagiarizing a Berkeley superstar, [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)'s intro :D)
 

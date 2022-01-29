@@ -14,3 +14,6 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - University of Califronia, Irvine (2019 - 2020), final year visiting student in Electrical Engineering and Computer Science;
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student in Mechanical Engineering;
 - Harbin Institute of Technology (2016 - 2020), BEng in Mechatronics, Robotics, and Automation Engineering.
+
+## Link
+- [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

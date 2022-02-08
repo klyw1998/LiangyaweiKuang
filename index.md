@@ -30,7 +30,7 @@ Mathematical Modeling (in MATLAB);
 
 - Engineering Courses Before my MPhil：  
 Machinery Dynamics,  
-Linear systems and control,  
+Linear Systems and Control,  
 Systems Dynamics,  
 Thermofluid Mechanics,  
 Artificial Intelligence in Products,  

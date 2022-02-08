@@ -73,7 +73,7 @@ Advanced Artificial Intelligence,
 Multi-Agent Systems (SS),  
 Deep Learning (AD);
 
-(AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going; MA: this course is in the math department)
+(__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self studying; __OG__: on going; __MA__: this course is in the math department)
 
 ## Link
 - [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

@@ -17,7 +17,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 
 ## Selected Courses
 -Math Courses Before my MPhil：
-Calculus, 
+Calculus, \\
 Linear Algebra and Analytic Topology, 
 Discrete Mathematics (SS),
 Probability and Stastics, 

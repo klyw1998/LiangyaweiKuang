@@ -37,7 +37,7 @@ Artificial Intelligence in Products,
 Design for Product Safety and Reliability,  
 Aircraft Systems,  
 Discrete Time Signal and Systems,  
-Communication Systems I(AD),  
+Communication Systems I (AD),  
 Communication Systems II,  
 Digital Signal Processing,  
 Integrated Electronic Circuit Design,  
@@ -47,6 +47,9 @@ Mobile Robotics;
 Introduction to Programming (in Python),    
 C Programming Language,  
 Introduction to Machine Vision,  
+Data Structures (SS),  
+Design and Analysis of Algorithms,  
+Theory Of Computation and Automata (SS)，  
 Organization of Digital Computers,  
 Introduction to Data Management,  
 Fundamentals of Parallel Computing,  
@@ -63,6 +66,7 @@ Stastical Machine Learning (in the math department);
 
 - Non-pure-Math Courses During my MPhil：  
 Sensing, Estimation & Control,  
+Operating Systems,  
 Advanced Artificial Intelligence;
 
 (AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going)

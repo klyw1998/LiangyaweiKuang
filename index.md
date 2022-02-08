@@ -69,7 +69,7 @@ Reinforcement Learning (MA);
 - ***Non-pure-Math Courses* During my MPhil：**  
 Sensing, Estimation & Control,  
 Operating Systems (AD),  
-Advanced Artificial Intelligence,
+Advanced Artificial Intelligence,  
 Multi-Agent Systems (SS),  
 Deep Learning (AD);
 

@@ -15,5 +15,14 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student in Mechanical Engineering;
 - Harbin Institute of Technology (2016 - 2020), BEng in Mechatronics Engineering.
 
+## Selected Courses
+My background is too complex, so I think shared courses I took maybe a better way to know about me.
+-Math Courses Before my MPhil
+
+(AD: auditing, which means I attended the classes as a normal student but earn no credits; SS: self studying; OG: on going)
+
+## Selected Projects
+- MADDPG
+
 ## Link
 - [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

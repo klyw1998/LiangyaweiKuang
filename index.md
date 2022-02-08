@@ -64,7 +64,7 @@ Advanced Probability Theory I (MA),
 Advanced Probability Theory II (MA),  
 Stastical Machine Learning (MA),  
 Game Theory (AD, MA),  
-Reinforcement Learning(MA);
+Reinforcement Learning (MA);
 
 - ***Non-pure-Math Courses* During my MPhil：**  
 Sensing, Estimation & Control,  

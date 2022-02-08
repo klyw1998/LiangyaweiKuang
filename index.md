@@ -45,7 +45,7 @@ Digital Signal Processing,
 Integrated Electronic Circuit Design,  
 Mobile Robotics;
 
-- ***Computer Science* Courses Before my MPhil：**  
+- ***Computer Science Courses* Before my MPhil：**  
 Introduction to Programming (in Python),    
 C Programming Language,  
 Introduction to Machine Vision,  
@@ -59,7 +59,7 @@ Computer Networks,
 Foundations of Artificial Intelligence,  
 Advanced Algorithms;
 
-- ***Pure Math* Courses During my MPhil：**  
+- ***Pure Math Courses* During my MPhil：**  
 Stochastic Processes (OG),  
 Linear-System Theory (OG),  
 Advanced Probability Theory I (MA),  

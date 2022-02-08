@@ -60,11 +60,11 @@ Advanced Algorithms;
 - ***Pure Math* Courses During my MPhil：**  
 Stochastic Processes,  
 Linear-System Theory,  
-Advanced Probability Theory I,  
-Advanced Probability Theory II,  
-Stastical Machine Learning (in the math department),  
-Game Theory (AD),  
-Reinforcement Learning;
+Advanced Probability Theory I (MA),  
+Advanced Probability Theory II (MA),  
+Stastical Machine Learning (MA),  
+Game Theory (AD, MA),  
+Reinforcement Learning(MA);
 
 - ***Non-pure-Math Courses* During my MPhil：**  
 Sensing, Estimation & Control,  
@@ -73,7 +73,7 @@ Advanced Artificial Intelligence,
 Multi-Agent Systems (SS),  
 Deep Learning (AD);
 
-(AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going)
+(AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going; MA: this course is in the math department)
 
 ## Link
 - [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

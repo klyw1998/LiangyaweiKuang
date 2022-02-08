@@ -23,7 +23,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 Calculus,  
 Linear Algebra and Analytic Topology,  
 Discrete Mathematics (SS),  
-Probability and Stastics,  
+Probability and Statistics,  
 Complex Functions and Analysis (AD),  
 Numerical Methods (SS),  
 Mathematical Modeling (in MATLAB);
@@ -51,7 +51,7 @@ Data Structures (AD),
 Design and Analysis of Algorithms (AD),  
 Theory Of Computation and Automata (SS)，  
 Organization of Digital Computers,  
-Introduction to Data Management,  
+Introduction to Data Management (in SQL),  
 Fundamentals of Parallel Computing,  
 Computer Networks,  
 Foundations of Artificial Intelligence,  

@@ -58,11 +58,11 @@ Foundations of Artificial Intelligence,
 Advanced Algorithms;
 
 - ***Pure Math* Courses During my MPhil：**  
-Stochastic Processes,  
-Linear-System Theory,  
+Stochastic Processes (OG),  
+Linear-System Theory (OG),  
 Advanced Probability Theory I (MA),  
-Advanced Probability Theory II (MA),  
-Stastical Machine Learning (MA),  
+Advanced Probability Theory II (OG, MA),  
+Stastical Machine Learning (OG, MA),  
 Game Theory (AD, MA),  
 Reinforcement Learning (IP, MA);
 
@@ -71,7 +71,7 @@ Sensing, Estimation & Control,
 Operating Systems (AD),  
 Advanced Artificial Intelligence,  
 Multi-Agent Systems (SS),  
-Deep Learning (AD);
+Advanced Deep Learning (OG, AD);
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the math department)
 

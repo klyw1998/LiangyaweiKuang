@@ -63,15 +63,15 @@ Linear-System Theory,
 Advanced Probability Theory I,  
 Advanced Probability Theory II,  
 Stastical Machine Learning (in the math department),  
-Game Theory (AD);
+Game Theory (AD),  
+Reinforcement Learning;
 
 - ***Non-pure-Math Courses* During my MPhil：**  
 Sensing, Estimation & Control,  
 Operating Systems (AD),  
 Advanced Artificial Intelligence,
 Multi-Agent Systems (SS),  
-Deep Learning (AD),  
-Reinforcement Learning;
+Deep Learning (AD);
 
 (AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going)
 

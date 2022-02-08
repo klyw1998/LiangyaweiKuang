@@ -47,8 +47,8 @@ Mobile Robotics;
 Introduction to Programming (in Python),    
 C Programming Language,  
 Introduction to Machine Vision,  
-Data Structures (SS),  
-Design and Analysis of Algorithms,  
+Data Structures (AD),  
+Design and Analysis of Algorithms (AD),  
 Theory Of Computation and Automata (SS)，  
 Organization of Digital Computers,  
 Introduction to Data Management,  
@@ -66,7 +66,7 @@ Stastical Machine Learning (in the math department);
 
 - Non-pure-Math Courses During my MPhil：  
 Sensing, Estimation & Control,  
-Operating Systems,  
+Operating Systems (AD),  
 Advanced Artificial Intelligence;
 
 (AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going)

@@ -19,7 +19,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 
 ## Selected Courses
--Math Courses Before my MPhil：  
+- Math Courses Before my MPhil：  
 Calculus,  
 Linear Algebra and Analytic Topology,  
 Discrete Mathematics (SS),  
@@ -28,7 +28,7 @@ Complex Functions and Analysis (AD),
 Numerical Methods (SS),  
 Mathematical Modeling (in MATLAB);
 
--Engineering Courses Before my MPhil：  
+- Engineering Courses Before my MPhil：  
 Machinery Dynamics,  
 Linear systems and control,  
 Systems Dynamics,  
@@ -43,7 +43,7 @@ Digital Signal Processing,
 Integrated Electronic Circuit Design,  
 Mobile Robotics;
 
--Computer Science Courses Before my MPhil：  
+- Computer Science Courses Before my MPhil：  
 Introduction to Programming (in Python),    
 C Programming Language,  
 Introduction to Machine Vision,  
@@ -54,14 +54,14 @@ Computer Networks,
 Foundations of Artificial Intelligence,  
 Advanced Algorithms;
 
--Pure Math Courses During my MPhil：  
+- Pure Math Courses During my MPhil：  
 Stochastic Processes,  
 Linear-System Theory,  
 Advanced Probability Theory I,  
 Advanced Probability Theory II,  
 Stastical Machine Learning (in the math department);
 
--Non-pure-Math Courses During my MPhil：  
+- Non-pure-Math Courses During my MPhil：  
 Sensing, Estimation & Control,  
 Advanced Artificial Intelligence;
 

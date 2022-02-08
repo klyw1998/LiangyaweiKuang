@@ -16,12 +16,51 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Harbin Institute of Technology (2016 - 2020), BEng in Mechatronics Engineering.
 
 ## Selected Courses
--Math Courses Before my MPhil：Calculus, Linear Algebra and Analytic Topology, Probability and Stastics, Complex Functions and Analysis (AD), Numerical Methods (SS), Mathematical Modeling (in MATLAB);
--Engineering Courses Before my MPhil：Machinery Dynamics, Linear systems and control, Systems Dynamics, Thermofluid Mechanics, Artificial Intelligence in Products, Design for Product Safety and Reliability, Aircraft Systems, Discrete Time Signal and Systems, Communication Systems I(AD), Communication Systems II, Digital Signal Processing, Integrated Electronic Circuit Design, Mobile Robotics;
--Computer Science Courses Before my MPhil：Introduction to Programming (in Python), C Programming Language, Introduction to Machine Vision, Organization of Digital Computers, Introduction to Data Management, Fundamentals of Parallel Computing, Computer Networks, Foundations of Artificial Intelligence, Advanced Algorithms;
+-Math Courses Before my MPhil：
+Calculus, 
+Linear Algebra and Analytic Topology, 
+Discrete Mathematics (SS),
+Probability and Stastics, 
+Complex Functions and Analysis (AD), 
+Numerical Methods (SS), 
+Mathematical Modeling (in MATLAB);
 
--Pure Math Courses During my MPhil：Stochastic Processes, Linear-System Theory, Advanced Probability Theory I, Advanced Probability Theory II, Stastical Machine Learning (in the math department);
--Non-pure-Math Courses During my MPhil：Sensing, Estimation & Control, Advanced Artificial Intelligence;
+-Engineering Courses Before my MPhil：
+Machinery Dynamics, 
+Linear systems and control, 
+Systems Dynamics, 
+Thermofluid Mechanics, 
+Artificial Intelligence in Products, 
+Design for Product Safety and Reliability, 
+Aircraft Systems, 
+Discrete Time Signal and Systems, 
+Communication Systems I(AD), 
+Communication Systems II, 
+Digital Signal Processing, 
+Integrated Electronic Circuit Design, 
+Mobile Robotics;
+
+-Computer Science Courses Before my MPhil：
+Introduction to Programming (in Python), 
+C Programming Language, 
+Introduction to Machine Vision, 
+Organization of Digital Computers, 
+Introduction to Data Management, 
+Fundamentals of Parallel Computing, 
+Computer Networks, 
+Foundations of Artificial Intelligence, 
+Advanced Algorithms;
+
+-Pure Math Courses During my MPhil：
+Stochastic Processes, 
+Linear-System Theory, 
+Advanced Probability Theory I, 
+Advanced Probability Theory II, 
+Stastical Machine Learning (in the math department);
+
+-Non-pure-Math Courses During my MPhil：
+Sensing, Estimation & Control, 
+Advanced Artificial Intelligence;
 
 (AD: auditing, which means I attended the class and all related activities as a normal student but earned no credits; SS: self studying; OG: on going)
 

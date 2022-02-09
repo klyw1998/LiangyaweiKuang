@@ -68,7 +68,7 @@ Stastical Machine Learning (OG, MA),
 Game Theory (AD, MA),  
 Reinforcement Learning (IP, MA);
 
-- ***Non-pure-Math Courses* During my MPhil：**  
+- ***Non-pure-math Courses* During my MPhil：**  
 Sensing, Estimation & Control,  
 Operating Systems (AD),  
 Advanced Artificial Intelligence,  

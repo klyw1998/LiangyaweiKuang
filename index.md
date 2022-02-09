@@ -73,7 +73,7 @@ Sensing, Estimation & Control,
 Operating Systems (AD),  
 Advanced Artificial Intelligence,  
 Multi-Agent Systems (SS),  
-Advanced Deep Learning (OG, AD);
+Deep Learning in Computer Vision (AD);
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the math department)
 

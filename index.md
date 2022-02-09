@@ -19,6 +19,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 
 ## Selected Courses
+Since my background is too complicated, I list some of my courses as below.
 - ***Math Courses* Before my MPhil：**  
 Calculus,  
 Linear Algebra and Analytic Topology,  

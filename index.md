@@ -15,7 +15,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student in Mechanical Engineering;
 - Harbin Institute of Technology (2016 - 2020), BEng in Mechatronics Engineering.
 
-## Selected Projects
+## Selected Projects (during MPhil)
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 
 ## Selected Courses

@@ -16,7 +16,7 @@ Besides this webpage, my personal website is at [deadsecond.com](https://www.dea
 - Harbin Institute of Technology (2016 - 2020), BEng in Mechatronics Engineering.
 
 ## Selected Projects (during MPhil)
-- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+- Implement of "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments".
 
 ## Selected Courses
 Since my background is too complicated, I list some of my courses as below.

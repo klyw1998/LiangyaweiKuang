@@ -67,7 +67,8 @@ Sensing, Estimation & Control,
 Game Theory (AD, MA),  
 Advanced Probability Theory I (MA),  
 Advanced Probability Theory II (MA),  
-Stastical Machine Learning (MA);
+Stastical Machine Learning (MA),  
+Advanced Topics in Deep Learning (SS, MA);
 
 - ***Non-pure-math Courses* During my MPhil：**  
 Operating Systems (AD),  

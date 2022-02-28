@@ -63,7 +63,7 @@ Advanced Algorithms;
 
 - ***Pure Math Courses* During my MPhil：**  
 Stochastic Processes,  
-Functional Analysis (SS),  
+Functional Analysis (SS, MA),  
 Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
 Sensing, Estimation & Control,  
 Game Theory (AD, MA),  

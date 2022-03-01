@@ -8,7 +8,7 @@ I am a postgraduate researcher at [HKUST](https://hkust.edu.hk/) who focuses on 
 Besides this webpage, my personal website is at [deadsecond.com](https://www.deadsecond.com).
 
 ## Education
-- The Hong Kong University of Science and Technology (Guangzhou) (2021 - present), MPhil in Robotics and Autonomous Systems;
+- The Hong Kong University of Science and Technology (Guangzhou) (2021 - present), MPhil in Robotics and Autonomous Systems, supervised by Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest), Asst. Prof. [Jun Ma](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=853) and Prof. [Ling Shi](https://facultyprofiles.ust.hk/profiles.php?profile=ling-shi-eesling);
 - The Hong Kong University of Science and Technology (Hong Kong) (2021 - present), MPhil in Robotics and Autonomous Systems, supervised by Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest) and Prof. [Ling Shi](https://facultyprofiles.ust.hk/profiles.php?profile=ling-shi-eesling);
 - Northeastern University at Boston (2020 - 2021), Thesis-based Master (degree discontinued) in Computer Vision, Machine Learning, and Algorithms;
 - University of Califronia, Irvine (2019 - 2020), final year visiting student in Electrical Engineering and Computer Science;

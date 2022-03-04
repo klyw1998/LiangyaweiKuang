@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Selected Courses'
-description: From undergraduate to now...
+description: This is a partial list of courses from undergraduate to present...
 ---
 
 ## *Math Courses* Before my MPhil:  

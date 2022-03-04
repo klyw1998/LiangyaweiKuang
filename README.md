@@ -1,1 +1,1 @@
-# Liangyawei Kuang's Personal Webpage
+# Liangyawei Kuang's Personal Academic Webpage

@@ -77,7 +77,7 @@ Advanced Topics in Deep Learning (SS, MA);
 Operating Systems (AD),  
 Deep Learning in Computer Vision (AD),  
 Multi-Agent Systems (SS),  
-dvanced Artificial Intelligence;
+Advanced Artificial Intelligence;
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the math department)
 

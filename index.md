@@ -1,5 +1,6 @@
 ---
 title: 'Liangyawei Kuang'
+description: This is just another page
 ---
 
 [Link to another page](./another-page.html).

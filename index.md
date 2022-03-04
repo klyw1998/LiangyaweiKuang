@@ -1,6 +1,6 @@
 ---
 title: 'Liangyawei Kuang'
-description: Story of Liangyawei Kuang/匡梁亚伟
+description: Here is 匡梁亚伟!
 ---
 
 ## About Me 

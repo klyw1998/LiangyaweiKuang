@@ -54,7 +54,8 @@ description: This is a partial list of courses from undergraduate to present.
 - Advanced Probability Theory I (MA),  
 - Advanced Probability Theory II (MA),  
 - Statistical Machine Learning (MA),  
-- Statistical Reinforcement Learning (SS, MA),  
+- Statistical Reinforcement Learning (SS),  
+- Foundations of Reinforcement Learning (SS),  
 - Advanced Topics in Deep Learning (SS, MA);
 
 ## *Non-pure-math Courses* During my MPhil:   

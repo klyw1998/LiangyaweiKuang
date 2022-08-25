@@ -50,6 +50,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Functional Analysis (SS, MA),  
 - Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
 - Sensing, Estimation & Control,  
+- Convex Optimization, (OG)  
 - Game Theory (AD, MA),  
 - Advanced Probability Theory I (MA),  
 - Advanced Probability Theory II (MA),  
@@ -59,7 +60,9 @@ description: This is a partial list of courses from undergraduate to present.
 - Advanced Topics in Deep Learning (SS, MA);
 
 ## *Non-pure-math Courses* During my MPhil:   
-- Operating Systems (AD),  
+- Operating Systems (OG),  
+- Design and Analysis of Algorithms (OG),  
+- Theory of Computation (OG),  
 - Deep Learning in Computer Vision (AD),  
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;

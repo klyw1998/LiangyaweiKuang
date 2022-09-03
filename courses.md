@@ -31,8 +31,6 @@ description: This is a partial list of courses from undergraduate to present.
 - Integrated Electronic Circuit Design,  
 - Mobile Robotics;
 
-## Undergraduate GPA: 3.83/4.00  
-
 # *Computer Science Courses* Before my MPhil:  
 - Introduction to Programming (in Python),    
 - C Programming Language,  
@@ -46,6 +44,8 @@ description: This is a partial list of courses from undergraduate to present.
 - Computer Networks,  
 - Foundations of Artificial Intelligence,  
 - Advanced Algorithms;
+
+## Undergraduate GPA: 3.83/4.00  
 
 # *Pure Math Courses* During my MPhil:  
 - Stochastic Processes,  

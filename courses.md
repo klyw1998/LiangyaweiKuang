@@ -79,7 +79,7 @@ The Minimum Credit Requirement is
 / 24 credits for MPhil in Mathematics  
 / 36 credits for PhD in Mathematics
 
-_Marks_   
+## _Marks_   
 __AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
 __SS__: self-study;  
 __OG__: ongoing;  

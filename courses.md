@@ -68,9 +68,15 @@ description: This is a partial list of courses from undergraduate to present.
 - Deep Learning in Computer Vision (AD),  
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
-
-## The Minimum Credit Requirement is 15 credits for MPhil in Robotics and Autonomous Systems (/ 12 credits for PhD in Physics / 15 credits for PhD in Electronic and Computer Engineering / 16 credits for MPhil in Computer Science and Engineering / 19 credits for PhD in Computer Science and Engineering / 24 credits for MPhil in Mathematics / 36 credits for MPhil in Mathematics  
-## I Finished 41 credits in the first one and a half years during my MPhil :)))  
+ 
+### I Finished 41 credits in the first one and a half years during my MPhil :)))  
+The Minimum Credit Requirement is 15 credits for MPhil in Robotics and Autonomous Systems 
+(/ 12 credits for PhD in Physics 
+/ 15 credits for PhD in Electronic and Computer Engineering 
+/ 16 credits for MPhil in Computer Science and Engineering 
+/ 19 credits for PhD in Computer Science and Engineering 
+/ 24 credits for MPhil in Mathematics 
+/ 36 credits for PhD in Mathematics)  
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the Department of Mathematics at HKUST);
 

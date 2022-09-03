@@ -70,7 +70,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Advanced Artificial Intelligence;
  
 ### I Finished 41 credits in the first one and a half years during my MPhil :)))  
-The Minimum Credit Requirement is   
+The Minimum Credit Requirement is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  
 / 15 credits for PhD in Electronic and Computer Engineering  
@@ -79,7 +79,7 @@ The Minimum Credit Requirement is
 / 24 credits for MPhil in Mathematics  
 / 36 credits for PhD in Mathematics
 
-## _Marks_   
+## Marks  
 __AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
 __SS__: self-study;  
 __OG__: ongoing;  

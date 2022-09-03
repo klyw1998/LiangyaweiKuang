@@ -45,7 +45,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Foundations of Artificial Intelligence,  
 - Advanced Algorithms;
 
-## Undergraduate GPA: 3.83/4.00  
+### Undergraduate GPA: 3.83/4.00  
 
 # *Pure Math Courses* During my MPhil:  
 - Stochastic Processes,  
@@ -79,12 +79,12 @@ The Minimum Credit Requirement is:
 / 24 credits for MPhil in Mathematics  
 / 36 credits for PhD in Mathematics
 
-## Marks  
+# Marks  
 __AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
 __SS__: self-study;  
 __OG__: ongoing;  
 __IP__: in plan;  
 __MA__: this course is in the Department of Mathematics at HKUST);  
 
-## Link
+# Link
 - [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

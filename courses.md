@@ -4,7 +4,7 @@ title: 'Selected Courses'
 description: This is a partial list of courses from undergraduate to present.
 ---
 
-## *Math Courses* Before my MPhil:  
+# *Math Courses* Before my MPhil:  
 - Calculus I,  
 - Calculus II,  
 - Linear Algebra and Analytic Topology,  
@@ -14,7 +14,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Numerical Methods (SS),  
 - Mathematical Modeling (in MATLAB);
 
-## *Engineering Courses* Before my MPhil:  
+# *Engineering Courses* Before my MPhil:  
 - Machinery Dynamics,  
 - Linear Systems and Control,  
 - Systems Dynamics,  
@@ -31,9 +31,9 @@ description: This is a partial list of courses from undergraduate to present.
 - Integrated Electronic Circuit Design,  
 - Mobile Robotics;
 
-# Undergraduate GPA: 3.83/4.00  
+## Undergraduate GPA: 3.83/4.00  
 
-## *Computer Science Courses* Before my MPhil:  
+# *Computer Science Courses* Before my MPhil:  
 - Introduction to Programming (in Python),    
 - C Programming Language,  
 - Introduction to Machine Vision,  
@@ -47,7 +47,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Foundations of Artificial Intelligence,  
 - Advanced Algorithms;
 
-## *Pure Math Courses* During my MPhil:  
+# *Pure Math Courses* During my MPhil:  
 - Stochastic Processes,  
 - Functional Analysis (SS, MA),  
 - Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
@@ -61,7 +61,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Foundations of Reinforcement Learning (SS),  
 - Advanced Topics in Deep Learning (SS, MA);
 
-## *Non-pure-math Courses* During my MPhil:   
+# *Non-pure-math Courses* During my MPhil:   
 - Operating Systems (OG),  
 - Design and Analysis of Algorithms (OG),  
 - Theory of Computation (OG),  
@@ -69,7 +69,8 @@ description: This is a partial list of courses from undergraduate to present.
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
 
-# Undergraduate GPA: 3.83/4.00
+## The Minimum Credit Requirement is 15 credits for MPhil in Robotics and Autonomous Systems (/ 12 credits for PhD in Physics / 15 credits for PhD in Electronic and Computer Engineering / 16 credits for MPhil in Computer Science and Engineering / 19 credits for PhD in Computer Science and Engineering / 24 credits for MPhil in Mathematics / 36 credits for MPhil in Mathematics  
+## I Finished 41 credits in the first one and a half years during my MPhil :)))  
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the Department of Mathematics at HKUST);
 

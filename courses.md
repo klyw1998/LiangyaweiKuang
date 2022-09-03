@@ -31,6 +31,8 @@ description: This is a partial list of courses from undergraduate to present.
 - Integrated Electronic Circuit Design,  
 - Mobile Robotics;
 
+# Undergraduate GPA: 3.83/4.00  
+
 ## *Computer Science Courses* Before my MPhil:  
 - Introduction to Programming (in Python),    
 - C Programming Language,  
@@ -66,6 +68,8 @@ description: This is a partial list of courses from undergraduate to present.
 - Deep Learning in Computer Vision (AD),  
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
+
+# Undergraduate GPA: 3.83/4.00
 
 (__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits; __SS__: self-study; __OG__: ongoing; __IP__: in plan; __MA__: this course is in the Department of Mathematics at HKUST);
 

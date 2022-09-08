@@ -59,12 +59,12 @@ description: This is a partial list of courses from undergraduate to present.
 - Statistical Machine Learning (MA),  
 - Statistical Reinforcement Learning (SS),  
 - Foundations of Reinforcement Learning (SS),  
-- Advanced Topics in Deep Learning (SS, MA);
+- Advanced Topics in Deep Learning (SS, MA),  
+- Theory of Computation (OG);
 
 # *Non-pure-math Courses* During my MPhil:   
 - Operating Systems (OG),  
 - Design and Analysis of Algorithms (OG),  
-- Theory of Computation (OG),  
 - Deep Learning in Computer Vision (AD),  
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;

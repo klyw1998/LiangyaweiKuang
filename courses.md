@@ -52,7 +52,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Functional Analysis (SS, MA),  
 - Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
 - Sensing, Estimation & Control,  
-- Convex Optimization, (OG)  
+- Convex Optimization, (AD, OG)  
 - Game Theory (AD, MA),  
 - Advanced Probability Theory I (MA),  
 - Advanced Probability Theory II (MA),  
@@ -69,7 +69,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
  
-### I Finished 41 credits in the first one and a half years during my MPhil :)))  
+### I Finished 38 credits officially in the first one and a half years during my MPhil :)))  
 The Minimum Credit Requirement is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  

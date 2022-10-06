@@ -69,7 +69,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
  
-### I Finished 38 credits officially in the first one and a half years during my MPhil :)))  
+### I Finished 40 credits officially in the first one and a half years during my MPhil :)))  
 The Minimum Credit Requirement is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  

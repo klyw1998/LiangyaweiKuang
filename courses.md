@@ -70,7 +70,7 @@ description: This is a partial list of courses from undergraduate to present.
 - Advanced Artificial Intelligence;
  
 ### I Finished 40 credits officially in the first one and a half years during my MPhil :)))  
-The Minimum Credit Requirement is:   
+The Minimum Credit Requirement in HKUST is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  
 / 15 credits for PhD in Electronic and Computer Engineering  

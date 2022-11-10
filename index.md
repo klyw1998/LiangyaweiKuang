@@ -10,6 +10,7 @@ Besides this academic webpage, my personal website is at [deadsecond.com](https:
 
 ## Education
 - The Hong Kong University of Science and Technology (2021 - present), MPhil in  Individualized Interdisciplinary Program (Robotics and Autonomous Systems), supervised by Prof. [Fangzhen Lin](https://facultyprofiles.ust.hk/profiles.php?profile=fangzhen-lin-flin#researchinterest);
+- The Hong Kong University of Science and Technology, Guangzhou (2022 - 2022), Cross Campus Virtual Exchange (Remote);
 - Northeastern University at Boston (2020 - 2021), Thesis-based Master in Computer Engineering (degree discontinued) with a concentration in Computer Vision, Machine Learning, and Algorithms;
 - University of Califronia, Irvine (2019 - 2020), final year visiting student in Electrical Engineering and Computer Science;
 - Hong Kong Polytechnic University (2019 - 2019), one-semester exchange student in Mechanical Engineering;

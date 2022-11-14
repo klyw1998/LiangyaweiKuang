@@ -52,24 +52,41 @@ description: This is a partial list of courses from undergraduate to present.
 - Functional Analysis (SS, MA),  
 - Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
 - Sensing, Estimation & Control,  
-- Convex Optimization, (AD, OG)  
+- Convex Optimization, (AD)  
 - Game Theory (AD, MA),  
 - Advanced Probability Theory I (MA),  
 - Advanced Probability Theory II (MA),  
 - Statistical Machine Learning (MA),  
-- Statistical Reinforcement Learning (SS),  
-- Foundations of Reinforcement Learning (SS),  
+- Statistical Reinforcement Learning (SS, CS 542),  
+- Foundations of Reinforcement Learning (SS, CS 6789),  
 - Advanced Topics in Deep Learning (SS, MA),  
-- Theory of Computation (OG);
+- Theory of Computation;
 
-# *Non-pure-math Courses* During my MPhil:   
-- Operating Systems (OG),  
-- Design and Analysis of Algorithms (OG),  
+# *Non-pure-math Computer Science Courses* During my MPhil:   
+- Operating Systems,  
+- Compilers (SS, CS 143),  
+- Software Engineering (SS, CSCI 3100),  
+- Computer System Security (SS, 6.858),  
+- Decision Making in Large Scale Systems (SS, 2.997),  
+- Design and Analysis of Algorithms,  
 - Deep Learning in Computer Vision (AD),  
 - Multi-Agent Systems (SS),  
 - Advanced Artificial Intelligence;
- 
-### I Finished 40 credits officially in the first one and a half years during my MPhil :)))  
+
+# Marks  
+__SS__: self-study;  
+__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
+__MA__: this course is in the Department of Mathematics at HKUST);  
+~~__OG__: ongoing;~~  
+~~__IP__: in plan;~~
+
+
+### I Finished 40 credits officially in the first one and a half years during my MPhil :)))  🖖  
+### Most Courses I learned are based on my interests as a high GPA with carefully selected courses is not needed for a postgraduate researcher  ❤️  
+### Some Courses I learned are to boost my research, some are from my friends' suggestion  🤞  
+### A few courses I have to self-study via material from other universities, as there is no such related courses in HKUST 😢  
+### And I do not want to take any course in the last semester...Just DO RESEARCH!!!!  ⏰ 🏃‍♂️  
+### By the way 🙂
 The Minimum Credit Requirement in HKUST is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  
@@ -78,13 +95,6 @@ The Minimum Credit Requirement in HKUST is:
 / 19 credits for PhD in Computer Science and Engineering  
 / 24 credits for MPhil in Mathematics  
 / 36 credits for PhD in Mathematics
-
-# Marks  
-__AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
-__SS__: self-study;  
-__OG__: ongoing;  
-__IP__: in plan;  
-__MA__: this course is in the Department of Mathematics at HKUST);  
 
 # Link
 - [Curriculum Vitae](https://github.com/klyw1998/LiangyaweiKuang/blob/gh-pages/cv.pdf)

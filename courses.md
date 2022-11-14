@@ -86,7 +86,7 @@ __MA__: this course is in the Department of Mathematics at HKUST);
 #### Some Courses I learned are to boost my research, some are from my friends' suggestion  🤞  
 #### A few courses I have to self-study via material from other universities, as there is no such related courses in HKUST 😢  
 #### And I do not want to take any course in the last semester...Just DO RESEARCH!!!!  ⏰ 🏃‍♂️  
-#### By the way 🙂
+#### By the way: 🙂
 The Minimum Credit Requirement in HKUST is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  

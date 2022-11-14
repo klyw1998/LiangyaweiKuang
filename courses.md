@@ -50,7 +50,7 @@ description: This is a partial list of courses from undergraduate to present.
 # *Pure Math Courses* During my MPhil:  
 - Stochastic Processes,  
 - Functional Analysis (SS, MA),  
-- Linear-System Theory (Half of the course is Matrix Analysis, the other half is Linear Systems Theory),  
+- Linear-System Theory (Half of this course is Matrix Analysis, the other half is Linear Systems Theory),  
 - Sensing, Estimation & Control,  
 - Convex Optimization, (AD)  
 - Game Theory (AD, MA),  
@@ -81,12 +81,12 @@ __MA__: this course is in the Department of Mathematics at HKUST);
 ~~__IP__: in plan;~~
 
 
-#### I Finished 40 credits officially in the first one and a half years during my MPhil :)))  🖖  
-#### Most Courses I learned are based on my interests as a high GPA with carefully selected courses is not needed for a postgraduate researcher  ❤️  
-#### Some Courses I learned are to boost my research, some are from my friends' suggestion  🤞  
-#### A few courses I have to self-study via material from other universities, as there is no such related courses in HKUST 😢  
-#### And I do not want to take any course in the last semester...Just DO RESEARCH!!!!  ⏰ 🏃‍♂️  
-#### By the way: 🙂
+#### I Finished 40 credits officially in the first one and a half years during my MPhil🖖  
+#### Most courses I learned are based on my interests as a high GPA via carefully selected courses is not needed for a postgraduate researcher❤️  
+#### Some courses I learned are to boost my research, some are from my friends' suggestions (usually my friends are researchers)🤞  
+#### A few courses I have to self-study via material from other universities, as there are no such related courses in HKUST😢  
+#### I do not want to take any course in the last semester...Just DO RESEARCH!!!!⏰🏃‍♂️  
+#### By the way:🙂
 The Minimum Credit Requirement in HKUST is:   
 15 credits for MPhil in Robotics and Autonomous Systems  
 / 12 credits for PhD in Physics  

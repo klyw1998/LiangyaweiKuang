@@ -76,7 +76,7 @@ description: This is a partial list of courses from undergraduate to present.
 # Marks  
 __SS__: self-study;  
 __AD__: auditing, which means I attended the class and all related activities as a normal student but earned no credits;  
-__MA__: this course is in the Department of Mathematics at HKUST);  
+__MA__: this course is in the Department of Mathematics at HKUST;  
 ~~__OG__: ongoing;~~  
 ~~__IP__: in plan;~~
 

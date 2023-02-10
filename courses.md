@@ -85,7 +85,7 @@ I Finished 40 credits officially in the first one and a half years of my MPhil.
 Most courses I learned are based on my interests since a high GPA via carefully selected courses is not needed for a postgraduate researcher.  
 Some courses I learned are to boost my research, some are from my friends' suggestions (usually my friends are also researchers).  
 A few courses I have to self-study via material from other universities, as there are no such related courses at HKUST.  
-I do not want to take any course in the last semester...Just DO RESEARCH!!!!⏰🏃‍♂️  
+~~I do not want to take any course in the last semester...Just~~DO RESEARCH!!!!⏰🏃‍♂️  
 
 ### By the way:  
 The Minimum Credit Requirement in HKUST is:   
